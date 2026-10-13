@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Aplicación -->
+    <string name="app_name">SongApp</string>
+    <string name="app_tagline">Tu música, siempre contigo.</string>
+
+    <!-- Pestañas principales -->
+    <string name="songs_tab">Canciones</string>
+    <string name="favorites_tab">Favoritos</string>
+
+    <!-- Detalle de canción -->
+    <string name="back">Volver</string>
+    <string name="detail_title">Detalle de canción</string>
+    <string name="loading_song">Cargando canción...</string>
+    <string name="error_loading_song">No se pudo cargar la canción.</string>
+    <string name="back_to_songs">Volver a canciones</string>
+    <string name="song_information">Información</string>
+
+    <!-- Información de la canción -->
+    <string name="album">Álbum</string>
+    <string name="year">Año</string>
+    <string name="duration">Duración</string>
+    <string name="genre">Género</string>
+    <string name="rating">Valoración</string>
+    <string name="song_cover">Carátula de %1$s</string>
+
+    <!-- Favoritos -->
+    <string name="add_to_favorites">Agregar a favoritos</string>
+    <string name="remove_from_favorites">Quitar de favoritos</string>
+    <string name="empty_favorites_title">Tus favoritos aparecerán aquí</string>
+    <string name="empty_favorites_description">Explora las canciones y guarda las que más te gusten.</string>
+    <string name="remove_song_from_favorites">Quitar %1$s de favoritos</string>
+
+    <!-- Lista de canciones -->
+    <string name="loading_songs">Cargando canciones...</string>
+    <string name="error_loading_songs">No se pudieron cargar las canciones.</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="no_songs_available">No hay canciones disponibles.</string>
+    <string name="view_details">Ver detalles</string>
+
+    <!-- Operaciones de favoritos -->
+    <string name="error_updating_favorite">No se pudo actualizar el favorito.</string>
+</resources>
